@@ -53,7 +53,7 @@ export default function Page() {
                 <img src="/images/image6.jpg" alt="wall art" className="image33 " />
               </div>
               <div className="buttondiv">
-                <Link href="/gallery">
+                <Link href="/collection">
                   <button> More Collection </button>
                 </Link> </div>
 
